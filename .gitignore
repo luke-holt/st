@@ -1,0 +1,5 @@
+st
+.cache/
+*.diff
+compile_commands.json
+*.o
